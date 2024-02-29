@@ -1,81 +1,61 @@
-<p align="center">
-	<a href="https://www.onlyoffice.com/"><img alt="https://www.onlyoffice.com/" width="500px" src="https://static-www.onlyoffice.com/images/logo_small.svg"></a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+	<a href="https://www.onlyoffice.com/" rel="nofollow"><img alt="https://www.onlyoffice.com/" width="500px" src="https://camo.githubusercontent.com/742cf5b96e8faf9f5bf297e24a91a7a61535a6a0193e3035bb9b4537b90d7146/68747470733a2f2f7374617469632d7777772e6f6e6c796f66666963652e636f6d2f696d616765732f6c6f676f5f736d616c6c2e737667" data-canonical-src="https://static-www.onlyoffice.com/images/logo_small.svg" style="max-width: 100%;"></a>
 </p>
-<hr />
-<p align="center">
-  <a href="https://www.onlyoffice.com/">Website</a> |
-  <a href="https://www.onlyoffice.com/server-solutions.aspx">Products</a> |
-  <a href="https://helpcenter.onlyoffice.com/">Documentation</a> |
-  <a href="https://api.onlyoffice.com/">API</a> |
-  <a href="https://www.onlyoffice.com/about.aspx">About</a>
+<hr>
+<p align="center" dir="auto">
+  <a href="https://www.onlyoffice.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+  </font></font><a href="https://www.onlyoffice.com/server-solutions.aspx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">产品</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+  </font></font><a href="https://helpcenter.onlyoffice.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+  </font></font><a href="https://api.onlyoffice.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序接口</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+  </font></font><a href="https://www.onlyoffice.com/about.aspx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></a>
 </p>
-<p align="center">
-  <a href="https://www.facebook.com/ONLYOFFICE-833032526736775/"><img alt="https://www.facebook.com/ONLYOFFICE-833032526736775/" src="https://download.onlyoffice.com/assets/logo/opensource/fb.png"></a>
-  <a href="https://twitter.com/ONLY_OFFICE"><img alt="https://twitter.com/ONLY_OFFICE" src="https://download.onlyoffice.com/assets/logo/opensource/tw.png"></a>
-  <a href="https://www.youtube.com/user/onlyofficeTV"><img alt="https://www.youtube.com/user/onlyofficeTV" src="https://download.onlyoffice.com/assets/logo/opensource/yt.png"></a>
-  <a href="https://www.instagram.com/the_onlyoffice/"><img alt="https://www.instagram.com/the_onlyoffice/" src="https://download.onlyoffice.com/assets/logo/opensource/in.png"></a>
+<p align="center" dir="auto">
+  <a href="https://www.facebook.com/ONLYOFFICE-833032526736775/" rel="nofollow"><img alt="https://www.facebook.com/ONLYOFFICE-833032526736775/" src="https://camo.githubusercontent.com/8dc4fb03f42bc629e7aa6f680bff471981bd82e42c39eb1feb00f0cccf0f79ba/68747470733a2f2f646f776e6c6f61642e6f6e6c796f66666963652e636f6d2f6173736574732f6c6f676f2f6f70656e736f757263652f66622e706e67" data-canonical-src="https://download.onlyoffice.com/assets/logo/opensource/fb.png" style="max-width: 100%;"></a>
+  <a href="https://twitter.com/ONLY_OFFICE" rel="nofollow"><img alt="https://twitter.com/ONLY_OFFICE" src="https://camo.githubusercontent.com/cd6115bd5c7e348ee8e30c5dd723452e2a09dccaa15c1f6071870be5342e1596/68747470733a2f2f646f776e6c6f61642e6f6e6c796f66666963652e636f6d2f6173736574732f6c6f676f2f6f70656e736f757263652f74772e706e67" data-canonical-src="https://download.onlyoffice.com/assets/logo/opensource/tw.png" style="max-width: 100%;"></a>
+  <a href="https://www.youtube.com/user/onlyofficeTV" rel="nofollow"><img alt="https://www.youtube.com/user/onlyofficeTV" src="https://camo.githubusercontent.com/602051ff23f1b80853c3cdcb1a21128116a74ce6c512821171e4b6dcdee854b8/68747470733a2f2f646f776e6c6f61642e6f6e6c796f66666963652e636f6d2f6173736574732f6c6f676f2f6f70656e736f757263652f79742e706e67" data-canonical-src="https://download.onlyoffice.com/assets/logo/opensource/yt.png" style="max-width: 100%;"></a>
+  <a href="https://www.instagram.com/the_onlyoffice/" rel="nofollow"><img alt="https://www.instagram.com/the_onlyoffice/" src="https://camo.githubusercontent.com/f95b00046529e1b9cb318f95ceaf3b412e4a25f9138ceee1c6ff612ce57ff8ff/68747470733a2f2f646f776e6c6f61642e6f6e6c796f66666963652e636f6d2f6173736574732f6c6f676f2f6f70656e736f757263652f696e2e706e67" data-canonical-src="https://download.onlyoffice.com/assets/logo/opensource/in.png" style="max-width: 100%;"></a>
 </p>
-<p align="center">
-  <a href="http://www.apache.org/licenses/LICENSE-2.0"><img alt="http://www.apache.org/licenses/LICENSE-2.0" src="https://img.shields.io/badge/License-Apache%20v2.0-green.svg?style=flat"></a>
-  <a href="https://github.com/ONLYOFFICE/portals/releases"><img alt="https://github.com/ONLYOFFICE/portals/releases" src="https://img.shields.io/badge/release-11.5.0-blue.svg"></a>
+<p align="center" dir="auto">
+  <a href="http://www.apache.org/licenses/LICENSE-2.0" rel="nofollow"><img alt="http://www.apache.org/licenses/LICENSE-2.0" src="https://camo.githubusercontent.com/8abd303041d5f38bafbdb1aab0e41384400d5c4f8ab0b24b5ebf4e616d003cb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d41706163686525323076322e302d677265656e2e7376673f7374796c653d666c6174" data-canonical-src="https://img.shields.io/badge/License-Apache%20v2.0-green.svg?style=flat" style="max-width: 100%;"></a>
+  <a href="https://github.com/ONLYOFFICE/portals/releases"><img alt="https://github.com/ONLYOFFICE/portals/releases" src="https://camo.githubusercontent.com/869d5619a2ba2941872268bd0ad2c23d9eccf935a4a6a5b302c417b102b2ba6f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656c656173652d31312e352e302d626c75652e737667" data-canonical-src="https://img.shields.io/badge/release-11.5.0-blue.svg" style="max-width: 100%;"></a>
 </p>
-
-## Overview
-
-ONLYOFFICE Community Server is a free open-source collaborative system developed to manage documents, projects, customer relationship and email correspondence, all in one place.
-
-Starting from version 11.0, Community Server is distributed as ONLYOFFICE Groups on terms of Apache License. 
-
-## Functionality
-
-* Cross platform solution: Linux, Windows
-* Document management
-* Integration with Google Drive, Box, Dropbox, OneDrive, OwnCloud
-* File sharing
-* Document embedding
-* Access rights management
-* Customizable CRM
-* Web-to-lead form
-* Invoicing system
-* Project Management
-* Gantt Chart
-* Milestones, task dependencies and subtasks
-* Time tracking
-* Automated reports
-* Blogs, forums, polls, wiki
-* Calendar
-* Email Aggregator
-* People module (employee database)
-* Support of more than 20 languages
-
-Community Server (distributed as ONLYOFFICE Groups) is a part of **ONLYOFFICE Workspace** that also includes [Document Server (distributed as ONLYOFFICE Docs)](https://github.com/ONLYOFFICE/DocumentServer), [Mail Server](https://github.com/ONLYOFFICE/Docker-MailServer), [Talk (instant messaging app)](https://github.com/ONLYOFFICE/XMPPServer). 
-
-Control Panel for administrating **ONLYOFFICE Workspace** can be found in [this repo](https://github.com/ONLYOFFICE/ControlPanel). 
-
-## Compiling
-
-To compile the source code, follow this [instruction](https://helpcenter.onlyoffice.com/server/windows/community/compile-source-code.aspx).
-
-## Connecting your own modules
-
-You can now create your own modules and connect them to ONLYOFFICE Groups (packaged as Community Server). See [this instruction](https://helpcenter.onlyoffice.com/server/community/community-server-custom-modules.aspx "https://helpcenter.onlyoffice.com/server/community/community-server-custom-modules.aspx") for more details.
-
-## Project information
-
-Official website: [https://www.onlyoffice.com](https://www.onlyoffice.com?utm_source=github&utm_medium=cpc&utm_campaign=GitHubCS "http://www.onlyoffice.com?utm_source=github&utm_medium=cpc&utm_campaign=GitHubCS")
-
-Code repository: [https://github.com/ONLYOFFICE/CommunityServer](https://github.com/ONLYOFFICE/CommunityServer "https://github.com/ONLYOFFICE/CommunityServer")
-
-Docker Image: [https://github.com/ONLYOFFICE/Docker-CommunityServer](https://github.com/ONLYOFFICE/Docker-CommunityServer "https://github.com/ONLYOFFICE/Docker-CommunityServer")
-
-License: [Apache](https://www.apache.org/licenses/LICENSE-2.0)
-
-ONLYOFFICE Workspace: [https://www.onlyoffice.com/workspace.aspx](https://www.onlyoffice.com/workspace.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubCS)
-
-## User feedback and support
-
-If you have any problems with or questions about [ONLYOFFICE][2], please visit our official forum to find answers to your questions: [dev.onlyoffice.org][1] or you can ask and answer ONLYOFFICE development questions on [Stack Overflow][3].
-
-  [1]: http://dev.onlyoffice.org
-  [2]: https://github.com/ONLYOFFICE
-  [3]: http://stackoverflow.com/questions/tagged/onlyoffice
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></h2><a id="user-content-overview" class="anchor-element" aria-label="永久链接：概述" href="#overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ONLYOFFICE Community Server 是一款免费的开源协作系统，旨在在一个地方管理文档、项目、客户关系和电子邮件通信。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从版本 11.0 开始，社区服务器根据 Apache 许可证条款作为 ONLYOFFICE 组进行分发。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能性</font></font></h2><a id="user-content-functionality" class="anchor-element" aria-label="永久链接：功能" href="#functionality"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跨平台解决方案：Linux、Windows</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与 Google Drive、Box、Dropbox、OneDrive、OwnCloud 集成</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件共享</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档嵌入</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问权限管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可定制的客户关系管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络潜在客户表格</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进销存系统</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">甘特图</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">里程碑、任务依赖性和子任务</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">时间跟踪</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动报告</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客、论坛、民意调查、维基百科</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">日历</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件聚合器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人员模块（员工数据库）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持20多种语言</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区服务器（作为 ONLYOFFICE Groups 分发）是ONLYOFFICE Workspace</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的一部分</font><font style="vertical-align: inherit;">，其中还包括</font></font><a href="https://github.com/ONLYOFFICE/DocumentServer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档服务器（作为 ONLYOFFICE Docs 分发）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/ONLYOFFICE/Docker-MailServer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">邮件服务器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/ONLYOFFICE/XMPPServer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Talk（即时消息应用程序）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于管理</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ONLYOFFICE Workspace 的控制面板可以在</font></font></strong><font style="vertical-align: inherit;"></font><a href="https://github.com/ONLYOFFICE/ControlPanel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此存储库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中找到</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编译</font></font></h2><a id="user-content-compiling" class="anchor-element" aria-label="永久链接：编译" href="#compiling"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要编译源代码，请按照此</font></font><a href="https://helpcenter.onlyoffice.com/server/windows/community/compile-source-code.aspx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">说明</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">进行操作。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接您自己的模块</font></font></h2><a id="user-content-connecting-your-own-modules" class="anchor-element" aria-label="永久链接：连接您自己的模块" href="#connecting-your-own-modules"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您现在可以创建自己的模块并将它们连接到 ONLYOFFICE 组（打包为社区服务器）。</font><font style="vertical-align: inherit;">请参阅</font></font><a href="https://helpcenter.onlyoffice.com/server/community/community-server-custom-modules.aspx" title="https://helpcenter.onlyoffice.com/server/community/community-server-custom-modules.aspx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此说明</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多详细信息。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目信息</font></font></h2><a id="user-content-project-information" class="anchor-element" aria-label="永久链接：项目信息" href="#project-information"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方网站： https: </font></font><a href="https://www.onlyoffice.com?utm_source=github&amp;utm_medium=cpc&amp;utm_campaign=GitHubCS" title="http://www.onlyoffice.com?utm_source=github&amp;utm_medium=cpc&amp;utm_campaign=GitHubCS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//www.onlyoffice.com</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码存储库： https: </font></font><a href="https://github.com/ONLYOFFICE/CommunityServer" title="https://github.com/ONLYOFFICE/CommunityServer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/ONLYOFFICE/CommunityServer</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 镜像：</font></font><a href="https://github.com/ONLYOFFICE/Docker-CommunityServer" title="https://github.com/ONLYOFFICE/Docker-CommunityServer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/ONLYOFFICE/Docker-CommunityServer</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证：</font></font><a href="https://www.apache.org/licenses/LICENSE-2.0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿帕奇</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ONLYOFFICE 工作空间：</font></font><a href="https://www.onlyoffice.com/workspace.aspx?utm_source=github&amp;utm_medium=cpc&amp;utm_campaign=GitHubCS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.onlyoffice.com/workspace.aspx</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户反馈和支持</font></font></h2><a id="user-content-user-feedback-and-support" class="anchor-element" aria-label="永久链接：用户反馈和支持" href="#user-feedback-and-support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/ONLYOFFICE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您对ONLYOFFICE</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有任何问题或疑问</font><font style="vertical-align: inherit;">，请访问我们的官方论坛寻找问题的答案：</font></font><a href="http://dev.onlyoffice.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">dev.onlyoffice.org或者您可以在</font></font></a><font style="vertical-align: inherit;"></font><a href="http://stackoverflow.com/questions/tagged/onlyoffice" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stack Overflow</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上询问和回答 ONLYOFFICE 开发问题</font><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
